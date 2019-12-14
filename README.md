@@ -4,7 +4,7 @@
 
 **Note**: We have modified the following notebooks to use a very small subset of the data (1%) so that the code can be run in a reasonable amount of time (since we train neural networks). Models using GloVe will still take at least 8-10 minutes because that's how long it takes to load in GloVe. No notebook should take longer than 20 minutes when using the small subset of data. We provide our original notebooks which use the entire dataset later in the README, and these notebooks take several hours to complete (no more than 8 hours).
 
-INSTRUCTIONS:
+**INSTRUCTIONS**:
 
 Go to each of the following notebooks and hit "Run all." You will have to authenticate your account with the Google API (follow the instructions printed by the first cell), and then the entire notebook will execute.
 
