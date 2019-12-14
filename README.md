@@ -1,4 +1,4 @@
-## Project: Read it on Reddit: LSTM Networks for Text Classification
+## Read it on Reddit: LSTM Networks for Text Classification
 
 ### Team: Luis Ulloa, Tassica Lim, Tatiana Wu
 
