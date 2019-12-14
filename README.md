@@ -8,7 +8,7 @@
 
 Go to each of the following notebooks and hit "Run all." You will have to authenticate your account with the Google API (follow the instructions printed by the first cell), and then the entire notebook will execute.
 
-Data Preprocessing: 
+Data Preprocessing (this creates the preprocessed dataframe and saves it to a pickle file which is loaded by all of the model notebooks): 
 https://colab.research.google.com/drive/1orgSILVEorUr_-5OPQLqxh72KdrO-_BR
 
 Baseline Models:
@@ -23,7 +23,7 @@ https://colab.research.google.com/drive/18QjnOvUxqSgXacPkoCDvblfm5d8Kk1p1
 CNN-LSTM-GloVe:
 https://colab.research.google.com/drive/1HVCwipWpbki70I4Ne59RkFItgvIsb5pb
 
-Note that the Google Drive folder reference in all of the above notebooks can be found here: https://drive.google.com/drive/folders/14tU-G6FUzbQDRruounj-ZZsgZPPNsC23?usp=sharing
+Note that the Google Drive folder referenced in all of the above notebooks can be found here: https://drive.google.com/drive/folders/14tU-G6FUzbQDRruounj-ZZsgZPPNsC23?usp=sharing
 
 --
 
@@ -52,13 +52,6 @@ https://colab.research.google.com/drive/1xQS_OzOBuBtuS1NTyhxVJ_IZVuWOtnOf
 
 Google Drive folder:
 https://drive.google.com/drive/folders/1m-0Rvr6oOszKdWPmHN1tM0lQHKUke5oD?usp=sharing
-
-
-How the notebooks relate:
-
-Data Preprocessing: This notebook preprocesses the dataset and created a single dataframe. This dataframe is saved as a pickle file in the 221project/ Google Drive folder (listed above) and is loaded into each model notebook.
-
-Baseline Models: Logistic Regression (BOW)
 
 --
 
