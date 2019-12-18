@@ -64,8 +64,12 @@ https://drive.google.com/drive/folders/1m-0Rvr6oOszKdWPmHN1tM0lQHKUke5oD?usp=sha
 
 ---
 
-Note that we provided notebooks that run on a subset of data due to this Piazza post: https://piazza.com/class/jzhx357491j6nw?cid=1799
+Notes
 
-Note that the oracle was a human and we did that by hand.
+* We provided notebooks that run on a subset of data due to this Piazza post: https://piazza.com/class/jzhx357491j6nw?cid=1799
 
-Note that the full dataset (not pre-processed) can also be found here: https://www.kaggle.com/mswarbrickjones/reddit-selfposts
+* The oracle was a human, so that work was done by hand and does not have a separate notebook.
+
+* The full dataset (not pre-processed) can also be found here: https://www.kaggle.com/mswarbrickjones/reddit-selfposts
+
+* All of the above notebooks are now view only (grading has passed). If you wish to run the code, you will have to make copies of the notebooks and potentially update the drive folder id with one of your own. You may or may not have to download the dataset yourself and place it in that google drive folder (and all relevant code changes associated with that).
